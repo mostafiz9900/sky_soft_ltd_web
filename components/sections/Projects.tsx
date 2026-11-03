@@ -44,7 +44,7 @@ export function Projects() {
             <article className="grid h-full gap-8 p-6 sm:p-8 md:grid-cols-[1fr_1.1fr]">
               <div className="flex flex-col">
                 <span className="font-mono text-xs text-violet-300">Flagship product</span>
-                <h3 className="mt-3 text-2xl font-semibold tracking-tight text-ink sm:text-3xl">Benemoy</h3>
+                <h3 className="mt-3 text-2xl font-semibold tracking-tight text-ink sm:text-3xl">OMS</h3>
                 <p className="mt-3 text-sm leading-6 text-zinc-400">
                   The real-time trading terminal for Benemoy Securities Limited, with live watchlists, market
                   depth, an order blotter and advanced charts in one configurable workspace.

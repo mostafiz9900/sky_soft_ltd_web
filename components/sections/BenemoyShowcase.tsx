@@ -2,7 +2,7 @@ import { Container, SectionHeading } from "@/components/ui/primitives";
 import { BenemoyMobile } from "@/components/sections/BenemoyMobile";
 
 const facts = [
-  { label: "Client", value: "Benemoy Securities Limited", note: "Stock brokerage, Bangladesh" },
+  { label: "Client", value: "Broker Houses", note: "Stock brokerage, Bangladesh" },
   { label: "What we built", value: "Web terminal + mobile apps", note: "Browser, iOS and Android" },
   { label: "Who uses it", value: "Dealers and investors", note: "Office desk and on the go" },
   { label: "Market", value: "Dhaka Stock Exchange", note: "Live prices and orders" },
@@ -20,10 +20,10 @@ export function BenemoyShowcase() {
           eyebrow="Featured project"
           title={
             <>
-              Benemoy: <span className="text-gradient">a complete stock trading platform</span>
+              OMS: <span className="text-gradient">a complete stock trading platform</span>
             </>
           }
-          description="We built the trading software for Benemoy Securities Limited. Their dealers use our web terminal in the office, and their investors use our mobile app to follow the Dhaka Stock Exchange and manage their portfolio from anywhere."
+          description="We built an Order Management System (OMS) trading software. Their dealers use our web terminal in the office, and their investors use our mobile app to follow the Dhaka Stock Exchange and manage their portfolio from anywhere."
         />
 
         {/* At a glance */}

@@ -66,7 +66,7 @@ export function BenemoyMobile() {
             <Image src={appIcon} alt="" className="size-14 rounded-2xl ring-1 ring-ink/10" />
             <div>
               <p className="font-mono text-xs text-emerald-400">● Live on the App Store and Google Play</p>
-              <h3 className="mt-1 text-2xl font-semibold tracking-tight text-ink sm:text-3xl">Benemoy in your pocket</h3>
+              <h3 className="mt-1 text-2xl font-semibold tracking-tight text-ink sm:text-3xl">OMS in your pocket</h3>
             </div>
           </div>
           <p className="mt-6 max-w-2xl text-sm leading-6 text-zinc-400 sm:text-[15px] sm:leading-7">
