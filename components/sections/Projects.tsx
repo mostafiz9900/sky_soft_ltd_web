@@ -46,7 +46,7 @@ export function Projects() {
                 <span className="font-mono text-xs text-violet-300">Flagship product</span>
                 <h3 className="mt-3 text-2xl font-semibold tracking-tight text-ink sm:text-3xl">OMS</h3>
                 <p className="mt-3 text-sm leading-6 text-zinc-400">
-                  The real-time trading terminal for Benemoy Securities Limited, with live watchlists, market
+                  The real-time trading terminal for OMS, with live watchlists, market
                   depth, an order blotter and advanced charts in one configurable workspace.
                 </p>
                 <ul className="mt-6 flex flex-wrap gap-2">
