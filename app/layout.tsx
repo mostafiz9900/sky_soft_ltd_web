@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "Sky Soft Ltd — Software Engineering & IT Solutions",
   description:
     "Sky Soft Ltd designs, builds and scales custom software, cloud platforms and AI products for ambitious companies.",
+  verification: {
+    google: "mPBBefMM_Vtx0Fo51Q1euQYtXHiP-waTbQPsjsPEPIM",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
